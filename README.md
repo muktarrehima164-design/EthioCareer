@@ -8,4 +8,4 @@ name of group member
 2. yusra yehya         wour/0705/17   (https://github.com/yyahyaH)
 3. newaynesh fsha      wour/0514/17
 4. hikmet abdu         wour/1481/17  (https://github.com/Hikmet99Git) 
-5. bereket wasihun     wour/0142/17 
+5. bereket wasihun     wour/0142/17  (https://github.com/bereket-wasihun) 
